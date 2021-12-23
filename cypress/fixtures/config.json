@@ -1,0 +1,8 @@
+{
+    "autoComplete": "https://material.angular.io/components/autocomplete/examples",
+    "dialog": "https://material.angular.io/components/dialog/examples",
+    "modal": "https://ng-bootstrap.github.io/#/components/modal/examples",
+    "angular":"https://angular.realworld.io/",
+    "autocompleteText": "Alabama",
+    "dialogOverviewText": "Faizan"
+}
